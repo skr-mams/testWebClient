@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="924768aa-d608-447b-ba8b-246a3d535875" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webClient/src/main/java/services/Verticle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webClient/src/main/java/services/adapter/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webClient/src/main/java/services/adapter/DynamicRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webClient/src/main/java/services/adapter/ResponseClientHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webClient/src/main/java/services/businessUnit/CustomerUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webClient/src/main/java/services/conreteConfigurations/Cors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webClient/src/main/java/services/conreteConfigurations/Headers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webClient/src/main/java/services/models/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webClient/src/main/java/services/models/GenericResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webClient/src/main/java/services/models/JsonDispatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webClient/src/main/java/services/models/httpMethods/ClientError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webClient/src/main/java/services/models/httpMethods/Informative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webClient/src/main/java/services/models/httpMethods/Redirect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webClient/src/main/java/services/models/httpMethods/ServerError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webClient/src/main/java/services/models/httpMethods/Success.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webClient/src/main/java/services/reactorUnit/CustomerReactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webClient/src/main/java/services/sources/file/DynamicJsonFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webClient/src/main/java/services/sources/webclient/connection/WebClientConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webClient/src/main/java/services/sources/webclient/helper/ClientHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webClient/src/main/java/services/sources/webclient/helper/ClientK1Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webClient/src/main/java/services/sources/webclient/send/CustomerClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webClient/src/main/resources/log4j2.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DiiGXsA3Hobh6TpZXihsG23oSg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "/home/manma01/workspace/test/webClient/src/main/java/services",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/webClient/src/main/java/services" />
+      <recent name="$PROJECT_DIR$/webClient/src/main/java/services/models" />
+      <recent name="$PROJECT_DIR$/webClient/src/main/java/services/sources/connection" />
+      <recent name="$PROJECT_DIR$/webClient/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="services.models" />
+      <recent name="services.adapter" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="924768aa-d608-447b-ba8b-246a3d535875" name="Changes" comment="" />
+      <created>1661188212480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661188212480</updated>
+      <workItem from="1661188215077" duration="5565000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

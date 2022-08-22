@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+    <Appenders>
+        <Console name="STDOUT">
+            <PatternLayout
+                    pattern="%blue{%d{dd.MM.yyyy HH:mm:ss.SSS}} [%t] %highlight{%-5level} %magenta{%c{1.}} %logger{36}\(%line\) - %msg%n"/>
+        </Console>
+        <File name="FILE" fileName="logs/api_web.log">
+            <PatternLayout>
+                <pattern>%d{dd/MMM/yyyy HH:mm:ss,SSS}- %c{1} %logger{36}\(%line\) - %msg%n</pattern>
+            </PatternLayout>
+        </File>
+
+    </Appenders>
+    <Loggers>
+        <Root level="INFO">
+            <AppenderRef ref="STDOUT"/>
+            <AppenderRef ref="FILE"/>
+        </Root>
+    </Loggers>
+</Configuration>
